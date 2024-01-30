@@ -1,7 +1,7 @@
 # full working vuejs data page
 
 including:
-- vuejs compoinetns pix-data-table and pix-data-table-card
+- vuejs components: pix-data-table and pix-data-table-card
 - dataLoader.js
 
 [WIP]
